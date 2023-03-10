@@ -3,7 +3,6 @@ from unittest.mock import patch, MagicMock
 from flask import Flask, request
 from crypto_app.aes_blueprint import AESBlueprint
 
-
 class TestAESBlueprint:
 
     def setup_method(self):
