@@ -78,3 +78,7 @@
 2023-03-14 12:14:56,263 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
 2023-03-14 12:16:15,132 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
 2023-03-14 12:16:15,132 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
+2023-03-14 13:23:29,008 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
+2023-03-14 13:23:29,008 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
+2023-03-14 13:25:37,834 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
+2023-03-14 13:25:37,834 - ERROR - crypto_app.sha_algo - Error during the hashing of a message with SHA512. The message must be a string
