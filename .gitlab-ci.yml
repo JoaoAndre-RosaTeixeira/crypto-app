@@ -17,10 +17,10 @@
 # https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Getting-Started.gitlab-ci.yml
 
 stages:          # List of stages for jobs, and their order of execution
-  - build
+  - test
 
 unit-test-job:   # This job runs in the test stage.
-  stage: build    # It only starts when the job in the build stage completes successfully.
+  stage: test    # It only starts when the job in the build stage completes successfully.
   image: python:3.10
   before_script:
     - pip install -r requirements.txt
