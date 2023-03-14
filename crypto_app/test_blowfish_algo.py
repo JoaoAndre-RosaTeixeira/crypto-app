@@ -1,5 +1,5 @@
 import pytest
-from blowfish_algo import Blowfish
+from crypto_app.blowfish_algo import Blowfish
 
 class TestBlowfish:
 
