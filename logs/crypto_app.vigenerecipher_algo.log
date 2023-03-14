@@ -262,3 +262,30 @@
 2023-03-14 14:25:46,274 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
 2023-03-14 14:25:46,274 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
 2023-03-14 14:25:46,274 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:19:04,199 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:20:07,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot contain accents or special characters
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 16:25:50,272 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
