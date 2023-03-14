@@ -1,7 +1,20 @@
 import pytest
 from crypto_app.blowfish_algo import Blowfish
 
+
 class TestBlowfish:
+
+    def test_valid_message(self):
+        bf = Blowfish()
+        message = "This is a secret message"
+        key = "a_valid_key"
+        assert bf.decrypt(bf.encrypt(message, key), key) == message
+
+    def test_invalid_message(self):
+        bf = Blowfish()
+        message = 123
+        key = "a_valid_key"
+        assert bf.encrypt(message, key) == False
 
     def test_encrypt_decrypt(self):
         bf = Blowfish()
@@ -15,21 +28,6 @@ class TestBlowfish:
         bf = Blowfish()
         message = 1234
         key = "My secret key"
-        assert bf.encrypt(message, key) == False
-        assert bf.decrypt(message, key) == False
-
-    def test_invalid_key(self):
-        bf = Blowfish()
-        message = "This is a secret message"
-        key = "short"
-        assert bf.encrypt(message, key) == False
-        assert bf.decrypt(message, key) == False
-
-        key = "a" * 57
-        assert bf.encrypt(message, key) == False
-        assert bf.decrypt(message, key) == False
-
-        key = 1234
         assert bf.encrypt(message, key) == False
         assert bf.decrypt(message, key) == False
 

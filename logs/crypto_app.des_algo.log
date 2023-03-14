@@ -1,0 +1,36 @@
+2023-03-14 12:13:46,028 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:13:46,028 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:13:46,031 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,031 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,031 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,098 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,098 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,098 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,104 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,104 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,104 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:13:46,104 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,225 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:14:56,225 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:14:56,228 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,228 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,228 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,230 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,230 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,230 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,236 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,236 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,236 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:14:56,236 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,101 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:16:15,101 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 12:16:15,104 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,104 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,104 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,106 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,106 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,106 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,111 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,111 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,111 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24
+2023-03-14 12:16:15,111 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 8, 16 or 24

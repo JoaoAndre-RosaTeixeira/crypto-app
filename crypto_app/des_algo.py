@@ -2,7 +2,9 @@
 
 import logging
 import logging.handlers
+
 from des import DesKey
+
 from crypto_app.encryptioninterface import EncryptionInterface
 
 
