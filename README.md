@@ -8,6 +8,22 @@
  - 2 hashing techniques: MD5 & SHA
 -  Each technique comes with an information box that tells you more about its history as well as its main features
 
+
+
+<h2>Test unitaires</h2>
+
+<p>nous avons creer des test unitaires dans le dossier crypto_app nommées chacun test_<nom_du_fichier_tester> </p>
+
+
+Pour lancer les test unitaires il suffit de sauvegarder vos changements et faire : 
+
+ - git add <nom du fichie>
+ - git commit  -m “message du commit”
+ - git push gitlab <mon_nom_de_branche>
+ - git push github <mon_nom_de_branche>
+
+
+
 <h2>How it was made</h2>
 
  -   Backend in Flask
